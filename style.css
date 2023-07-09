@@ -1,0 +1,215 @@
+/* body{
+    background-color: #212A3E;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Ubuntu&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+}
+.nav_section{
+    /* background-color: #212A3E; */
+    background-color: #469e62;
+}
+
+.intro{
+    /* background-color: #212A3E; */
+    background-color: #469e62;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: WHITE;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.navbar{
+
+    /* background-color: #394867; */
+    
+    }
+.nav-item{
+    padding-left: 10px;
+    padding-right: 25px;
+    font-size: 17px;
+}
+.nav-link{
+    color:black;
+    font-size: 17px;
+    font-weight: 500;
+    
+}
+.intro{
+    height:90vh;
+}
+.intro_heading{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.intro_paragraph{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+.intro_image{
+    margin-top:20px;
+    height: 200px;
+    width: 200px; 
+}
+.about_page{
+    background-color:#F1F6F9;
+
+}
+.abouthead{
+    /* margin-top:100px; */
+    font-size: 30px;
+}
+.aboutheadtext{
+    padding: 10px;
+}
+ .aboutmetext{
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 18px; 
+ }
+.aboutimage1{
+    height: 230px;
+    width: 400px;
+}
+.aboutfirstrow{
+    margin-top: 50px;
+}
+.aboutimage2{
+    height:260px;
+    width: 400px;
+    margin-left: 50px;
+}
+.cards_direction{
+     display: flex; 
+     flex-direction: row; 
+     justify-content: space-around; 
+     margin-top: 40px; 
+     padding: 40px;
+}
+.services_page{
+    background-color: #DDE6ED;
+    
+    
+}
+.aboutservicestext{
+
+}
+.serviceshead{
+    margin: 0;
+}
+.sssss{
+    margin-bottom: 0px;
+}
+.portpoliohead{
+    /* margin-top:10px; */
+}
+.portpoliocards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 40px;
+    padding: 40px;
+}
+
+.portpolio_page{
+    background-color: #d7f0ed;
+}
+.contact_page{
+    background-color: green;
+}
+.leftcontact{
+    margin-left: 430px;
+    margin-top: 20px;
+}
+.rightside{
+    padding: 25px;
+}
+.submit_button{
+    /* height: 0px; */
+    margin-top: 10px;
+}
+.input_text{
+    background: none;
+    border: none;
+    border-bottom: 0.6px solid white;
+    padding: 2px 5px;
+    border-radius: 0px;
+    background-color: transparent;
+
+    
+
+        /* width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px double;
+    background: transparent; */
+}
+.input_text:focus{
+    background-color:#081f30;
+    border-radius: 0px;
+}
+.upside{
+    margin-top: 10px;
+}
+.gettext{
+    margin-left: 180px;
+}
+.fa-xl{
+    padding: 6px;
+    margin-top: 20px;
+}
+.nnnn{
+    padding: 3px;
+    margin-left: 180PX;
+    margin-top: 15px;
+}
+.hhh{
+    margin-left: 29px;
+    margin-top: 15px;
+}
+.sss{
+    margin-top: 23px;
+    margin-left: 35px;
+}
+.ggg{
+    margin-left: 32px;
+}
+.contactup{
+    background-color: #081f30;
+    color: #F1F6F9;
+}
+.contactdown{
+    background-color: #c70037;
+    color:white;
+    font-size: 15px;
+    padding: 13px;
+    font-weight:bolder;
+}
+.card{
+    border-radius: 10px;
+    font-size: 16px;
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+}
+.btn_color{
+    background-color:green;
+    border-width: 0px;
+}
+.btn_color:hover{
+    background-color: #cd1818;
+}
+.cc{
+    color: #090057;
+    font-weight: bolder;
+}
